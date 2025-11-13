@@ -53,7 +53,7 @@
 | Week 11 | CS - Etc                           | ETC-001 ~ ETC-060                                            |
 | Week 12 | Interview - Data Structure, Etc    |                                                              |
 | Week 13 | CS - Programming Language          | JAVA-001 ~ JAVA-040 <br> PY-001 ~ PY-025                     |
-| Week 14 | CS - Programming Language          | JS-001 ~ JS-030, GO-001 <br> GO-015 <br> LANG-001 ~ LANG-015 |
+| Week 14 | CS - Programming Language          | JS-001 ~ JS-030 <br> GO-001 ~ GO-015 <br> LANG-001 ~ LANG-015 |
 | Week 15 | Interview - Programming Language   |                                                              |
 
 ## 4. GitHub Collaboration Guidelines
