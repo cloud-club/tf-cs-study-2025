@@ -25,14 +25,16 @@
   <tr>
     <td align="center"><a href="https://github.com/suhyenim"><img src="https://github.com/suhyenim.png" width="100px;" alt=""/><br /><sub><b>
 임수현</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/cloud-club"><img src="https://github.com/cloud-club/.github/blob/main/profile/images/logo.png?raw=true" width="100px;" alt=""/><br /><sub><b>
-클둥이1</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/cloud-club"><img src="https://github.com/cloud-club/.github/blob/main/profile/images/logo.png?raw=true" width="100px;" alt=""/><br /><sub><b>
-클둥이2</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/cloud-club"><img src="https://github.com/cloud-club/.github/blob/main/profile/images/logo.png?raw=true" width="100px;" alt=""/><br /><sub><b>
-클둥이3</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/cloud-club"><img src="https://github.com/cloud-club/.github/blob/main/profile/images/logo.png?raw=true" width="100px;" alt=""/><br /><sub><b>
-클둥이4</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/koojun99"><img src="https://github.com/koojun99.png" width="100px;" alt=""/><br /><sub><b>
+구환준</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/ekgns33"><img src="https://github.com/ekgns33.png" width="100px;" alt=""/><br /><sub><b>
+문다훈</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/moonhyeonmin"><img src="https://github.com/moonhyeonmin.png" width="100px;" alt=""/><br /><sub><b>
+문현민</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/hyobin-yang"><img src="https://github.com/hyobin-yang.png" width="100px;" alt=""/><br /><sub><b>
+양효빈</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/kyne0127"><img src="https://github.com/kyne0127.png" width="100px;" alt=""/><br /><sub><b>
+이성민</b></sub></a><br /></td>
   </tr>
 </table>
 
