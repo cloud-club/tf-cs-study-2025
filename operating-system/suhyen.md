@@ -423,8 +423,8 @@ IPC(Inter-Process Communication) 기법 중 Shared Memory는 일반적으로 프
 
 중지(Suspended): 메모리에서 스왑 아웃되어 일시적으로 중단된 상태.
 
-![OS-032(1)](./suhyen-img/OS-032(1).png)
-![OS-032(2)](./suhyen-img/OS-032(2).png)
+![OS-032(1)](./images/suhyen-OS-032(1).png)
+![OS-032(2)](./images/suhyen-OS-032(2).png)
 
 </details>
 
@@ -474,7 +474,7 @@ Preemptive(선점형)과 Non-Preemptive(비선점형) 스케줄링 모두에서 
 
 > 스레드 컨텍스트 스위칭: 데이터 경쟁(race condition)을 방지하기 위한 동기화 메커니즘이 필요할 수도 있음
 
-![OS-036(1)](./suhyen-img/OS-036(1).png)
+![OS-036(1)](./images/suhyen-OS-036(1).png)
 
 </details>
 
