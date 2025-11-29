@@ -623,7 +623,8 @@ I-Node가 무엇인가요?
 - 비동기 + 블로킹 (Asynchronous + Blocking)
 - 비동기 +논블로킹 (Asynchronous + Non-Blocking)
 
-![image.png](attachment:6a1bd754-a776-419e-9a14-830feee4587f:image.png)
+<img width="1482" height="894" alt="image" src="https://github.com/user-attachments/assets/86ecbf0a-102b-4ae6-81c9-818a217d1b87" />
+
 
 **[ 동기 + 블로킹 ]**
 
