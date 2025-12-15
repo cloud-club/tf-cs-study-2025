@@ -40,23 +40,19 @@
 
 ## 3. ⛳ Curriculum
 
-| Week    | Learning Content Title             | Details of Learning Content                                  |
-| ------- | ---------------------------------- | ------------------------------------------------------------ |
-| Week 01 | CS - Operating System              | OS-001 ~ OS-063                                              |
-| Week 02 | CS - Operating System              | OS-064 ~ OS-122                                              |
-| Week 03 | Interview - Operating System       |                                                              |
-| Week 04 | CS - Network                       | NET-001 ~ NET-052                                            |
-| Week 05 | CS - Network                       | NET-053 ~ NET-104                                            |
-| Week 06 | Interview - Network                |                                                              |
-| Week 07 | CS - Database                      | DB-001 ~ DB-060                                              |
-| Week 08 | CS - Architecture                  | ARCH-001 ~ ARCH-060                                          |
-| Week 09 | Interview - Database, Architecture |                                                              |
-| Week 10 | CS - Data Structure                | DS-001 ~ DS-063                                              |
-| Week 11 | CS - Etc                           | ETC-001 ~ ETC-060                                            |
-| Week 12 | Interview - Data Structure, Etc    |                                                              |
-| Week 13 | CS - Programming Language          | JAVA-001 ~ JAVA-040 <br> PY-001 ~ PY-025                     |
-| Week 14 | CS - Programming Language          | JS-001 ~ JS-030 <br> GO-001 ~ GO-015 <br> LANG-001 ~ LANG-015 |
-| Week 15 | Interview - Programming Language   |                                                              |
+| Week    | Learning Content Title    | Details of Learning Content          |
+| ------- | ------------------------- | ------------------------------------ |
+| Week 01 | [Operating System](./operating-system/README.md)     | OS-001 ~ OS-063                      |
+| Week 02 | [Operating System](./operating-system/README.md)     | OS-064 ~ OS-122                      |
+| Week 03 | [Operating System(Interview)](./operating-system/operating-system.md)       |  OS-001 ~ OS-122                           |
+| Week 04 | [Network](./network/README.md)             | NET-001 ~ NET-067                    |
+| Week 05 | [Network](./network/README.md)              | NET-068 ~ NET-104                    |
+| Week 06 | [Database](./database/README.md)             | DB-001 ~ DB-060                      |
+| Week 07 | [Architecture](./architecture/README.md)         | ARCH-001 ~ ARCH-060                  |
+| Week 08 | [Data Structure](./data-structure/README.md)       | DS-001 ~ DS-063                      |
+| Week 09 | [Etc](./etc/README.md)                  | ETC-001 ~ ETC-060                    |
+| Week 10 | [Programming Language](./programming-language/README.md)   | JAVA-001 ~ JAVA-040 <br> PY-001 ~ PY-025   |
+| Week 11 | [Programming Language](./programming-language/README.md)   | JS-001 ~ JS-030 <br> GO-001 ~ GO-015 <br> LANG-001 ~ LANG-015 |
 
 ## 4. GitHub Collaboration Guidelines
 
@@ -89,4 +85,5 @@
 3. PR 생성: `[Week00] Operating System`을 title로 하는 PR 생성
 
 ## 5. References
+https://github.com/VSFe/Tech-Interview
 https://github.com/fru1tworld/cs-study/tree/main/Interview
