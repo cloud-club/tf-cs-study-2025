@@ -89,7 +89,7 @@ Q. 인터럽트는 어떻게 처리하나요?
 ### OS-010
 Q. Polling 방식에 대해 설명해 주세요.
 
-Active Checking을 통해, CPU가 입출력 장치의 상태를 주기적으로 검사. 이로인해 CPU가 의미 없는 코드를 실해앟여 리소스를 낭비하는 busy waiting이 발생
+Active Checking을 통해, CPU가 입출력 장치의 상태를 주기적으로 검사. 이로인해 CPU가 의미 없는 코드를 실행하여 리소스를 낭비하는 busy waiting이 발생
 
 ### OS-011
 Q. HW / SW 인터럽트에 대해 설명해 주세요.
