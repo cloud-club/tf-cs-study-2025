@@ -4,7 +4,7 @@
 
 해시 자료구조에 대해 설명해 주세요.
 
-![Hash Structure](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hash_table_3_1_1_0_1_0_0_SP.svg/2560px-Hash_table_3_1_1_0_1_0_0_SP.svg.png)
+![Hash Structure](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hash_table_3_1_1_0_1_0_0_SP.svg/960px-Hash_table_3_1_1_0_1_0_0_SP.svg.png)
 
 > 해시 구조는 키(Key)와 값(Value)쌍으로 이루어진 데이터를 해시값으로 매핑하여 저장하는 자료구조
 
